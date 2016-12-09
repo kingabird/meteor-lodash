@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "lodash": {
+      "version": "4.17.2"
+    }
+  }
+}

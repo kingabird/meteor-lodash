@@ -1,0 +1,10 @@
+{
+  "name": "lodash",
+  "description": "Lo-Dash.js packaged for Meteor",
+  "homepage": "https://github.com/alethes/meteor-lodash",
+  "author": "Alethes <pleasesenditthere@gmail.com>",
+  "version": "0.7.1",
+  "git": "https://github.com/alethes/meteor-lodash.git",
+  "packages" : {}
+}
+
